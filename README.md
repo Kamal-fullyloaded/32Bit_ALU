@@ -207,6 +207,8 @@ Simulation allow to dump design and test bench signals into a waveform
 ## Fig 10:Simulation Waveform Window
 ![386925911-3019798b-c703-4733-847b-56910aca731f](https://github.com/user-attachments/assets/bcc255eb-dd6b-42da-8a1c-1827dfc0b7dc)
 
+
+
 ### Result
 
 The functionality of a 32-bit ALU was successfully verified using a test bench and simulated with the nclaunch tool.
